@@ -8,8 +8,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="src/ASCII-black-bg.GIF">
-  <img align="left" src="src/ASCII-white-bg.GIF" alt="ASCII self-portrait" width="45%">
+  <source media="(prefers-color-scheme: dark)" srcset="src/ASCII-black-bg-padded.GIF">
+  <img align="left" src="src/ASCII-white-bg-padded.GIF" alt="ASCII self-portrait" width="45%">
 </picture>
 
 ### 🌱 Currently working on…
