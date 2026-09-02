@@ -12,8 +12,6 @@
   <img align="left" src="src/ASCII-white-bg.GIF" alt="ASCII self-portrait" width="45%">
 </picture>
 
-<br>
-
 ### 🌱 Currently working on…
 
 - *SnuffleStudy*: A Chrome extension that brings real accountability to **virtual study rooms**.
