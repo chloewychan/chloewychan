@@ -12,6 +12,8 @@
   <img align="left" src="src/ASCII-white-bg.GIF" alt="ASCII self-portrait" width="45%">
 </picture>
 
+<br>
+
 ### 🌱 Currently working on…
 
 - *SnuffleStudy*: A Chrome extension that brings real accountability to **virtual study rooms**.
@@ -28,14 +30,12 @@
 
 <br clear="left">
 
-<br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/chloe-chan-339819290" target="_blank"><img src="src/linkedin-logo.png" alt="LinkedIn" width="50" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://devpost.com/chloe_wyc" target="_blank"><img src="src/devpost-logo.png" alt="Devpost" width="50" height="50"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/chloelotus" target="_blank"><img src="src/instagarm-logo.png" alt="Instagram" width="50" height="50"></a>
+  <a href="https://www.instagram.com/chloelotus" target="_blank"><img src="src/instagram-logo.png" alt="Instagram" width="50" height="50"></a>
   &nbsp;&nbsp;
   <a href="mailto:dev.chloe.c@gmail.com"><img src="src/email-logo.png" alt="Email" width="50" height="50"></a>
 </p>
