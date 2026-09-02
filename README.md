@@ -5,6 +5,13 @@
   </picture>
 </p>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="src/ASCII-black-bg.GIF">
+  <img align="left" src="src/ASCII-white-bg.GIF" alt="ASCII self-portrait" width="45%">
+</picture>
+
 ### 🌱 Currently working on…
 
 - *SnuffleStudy*: A Chrome extension that brings real accountability to **virtual study rooms**.
@@ -12,12 +19,6 @@
 - *Reverielle*: **Build a full outfit**, head to toe, using your calendar, closet, and personal style.
 - *Compositwin*: Connect playlists and jams through **Spotify and Apple Music** accounts.
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="src/ASCII-black-bg.GIF">
-  <img align="left" src="src/ASCII-white-bg.GIF" alt="ASCII self-portrait" width="45%">
-</picture>
 
 ### 🛠️ Skills
 
